@@ -4,7 +4,7 @@ A team assistant prototype for a fictional precision-farming company. It reads w
 
 Built for Agenthon Torino.
 
-Live demo: _add the link here_
+Live demo: https://agrinova-brain-887343251821.europe-west1.run.app
 
 ## What it shows
 
